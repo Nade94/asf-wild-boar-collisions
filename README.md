@@ -22,8 +22,9 @@ For Catalonia as a whole there is no visible change after the outbreak. The outb
 
 - **Comparison:** January to June 2026 (the only 2026 months in the data) against the same months in the normal years 2022 to 2025.
 - **Result:** wild boar collisions fell by 38% in the core, 10% in the ring and 6% in the rest of Catalonia.
-- **Interpretation:** the drop is largest where culling and fencing were most intense, and smallest outside the zone. The rest of Catalonia also fell, so the part of the core's drop that could be linked to ASF is the difference: about 32 percentage points.
-- **Limits:** the core numbers are small (29 collisions in 2026 against about 46 in a normal year), so the pattern is consistent with an effect but doesn't prove one. The data also can't separate fewer boar from fewer people driving in the area after Collserola was closed in March 2026.
+- **Interpretation:** the drop is largest in the core and smallest outside the zone, which is the pattern you would expect if culling and fencing reduced collisions. But the core's drop is within normal variation, so it can't be linked to ASF yet.
+- **Check against normal years:** comparing each year with the one before (January to June), the core changed by −26%, +59% and −4% between 2022 and 2025, and by −44% from 2025 to 2026. The 2026 drop is not bigger than the largest normal change. The same holds for the ring (normal changes up to +43%) and the rest of Catalonia (up to −8%).
+- **Limits:** the core is small (29 collisions in 2026 against about 46 in a normal year), and in small groups a few collisions already move the percentage a lot. More data is needed to say something firmer: the months after June 2026, when the dataset is updated. The data also can't separate fewer boar from fewer people driving in the area after Collserola was closed in March 2026.
 
 **Zone definition:** the 91 municipalities of the official infected and surveillance zone ([`zone.csv`](zone.csv), checked against the EU zone list per comarca), split into **core** (12 municipalities, 6 km infected radius) and **ring** (the other 79). Everything else is the rest of Catalonia.
 
@@ -42,7 +43,7 @@ For Catalonia as a whole there is no visible change after the outbreak. The outb
 ## Next
 
 1. Monthly view of the core, ring and rest from September 2021, to see when the drop started.
-2. Test whether the core's drop is larger than normal year to year variation.
+2. Repeat the year to year check when data after June 2026 is published.
 
 ## Files
 
